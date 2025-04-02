@@ -1,13 +1,6 @@
 #!/usr/bin/perl -w  
-#********************************************************************************************
-#Filename:	   html_excel.pl   
-
 #Description:      Script to convert html report to excel sheet 
 
-#Author Name:      Vikas K
-
-#Version: 1.0
-#********************************************************************************************* 
 
 use Spreadsheet::WriteExcel; # Instantiate the PERL MODULE  
 use Spreadsheet::ParseExcel; # Instantiate the PERL MODULE  
